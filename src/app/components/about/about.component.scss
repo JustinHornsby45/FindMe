@@ -1,10 +1,28 @@
 .float-container {
     border: 3px solid #fff;
-    padding: 20px;
 }
 
 .float-child {
-    width: 50%;
     float: left;
     padding: 20px;
 } 
+
+h1 {
+    color: cyan;
+}
+
+.card {
+    background-color: rgb(93, 230, 230);
+    border-color: darkslategray;
+    color: darkslategray;
+}
+
+.jumbotron {
+    background-color: darkslategray;
+    height:185vh;
+}
+
+.rounded-circle {
+    background-image: url("/assets/images/WhatsApp Image 2021-08-31 at 5.55.56 PM.jpeg");
+    width:250px;height:350px;
+}
